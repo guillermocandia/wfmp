@@ -14,9 +14,6 @@ dev = [
     "black>=25.12.0",
     "isort>=7.0.0",
 ]
-extra = [
-    "jupyterlab>=4.5.1",
-]
 
 [tool.pyright]
 venvPath = "."
